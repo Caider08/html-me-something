@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    padding: 70px 0;
+}
+
+ul li {
+    text-align: center;
+
+}
+
+.color {
+    background-color: white;
+
+}
+
+#standout {
+    color: red;
+    text-emphasis: bold;
+    font-size: 25px;
+
+}
