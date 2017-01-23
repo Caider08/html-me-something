@@ -1,6 +1,8 @@
 body {
     text-align: center;
     padding: 70px 0;
+    background-color: white;
+
 }
 
 ul  {
@@ -8,7 +10,7 @@ ul  {
 
 }
 
-.color {
+.blendin {
     background-color: white;
 
 }
